@@ -1,0 +1,2 @@
+# House-price-prediction
+Performed EDA and fitted a multiple linear regression model to extract the significant features for house prices•Computed Variation Inflation Factorsto detect multicollinearity and addressed it using Principal Component Analysis•Verified the assumptions of linearity,homoscedasticity, normality of errors and autocorrelationwith the help ofscatterplot,residual vs fitted plot,Q-Qplotand Durbin Watsontes
